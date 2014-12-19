@@ -16,7 +16,7 @@
 * Jack Yeh:
 * Jeffrey Gu:
 * Juan Manuel Navarro:
-* Kyle Henson:
+* Kyle Henson:https://github.com/kylehenson/encrypt.git
 * Kyra Weber:
 * Lori Culberson:
 * Markus Olsen:
